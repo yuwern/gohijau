@@ -1,0 +1,7 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/webroot/files/Circulars/*
+/webroot/files/AnnualReports/*
+/webroot/files/zip/*

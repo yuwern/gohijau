@@ -1,0 +1,1 @@
+<div class="message success alert alert-success alert-dismissable" onclick="this.classList.add('hidden')"><button type="button" data-dismiss="alert" aria-hidden="true" class="close">×</button><?= h($message) ?></div>
