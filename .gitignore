@@ -1,7 +1,22 @@
+<<<<<<< HEAD
+=======
+# CakePHP 3
+
+>>>>>>> 1825e90d8ec72ac33ebe5ca086121c3ed5330e9c
 /vendor/*
 /config/app.php
 /tmp/*
 /logs/*
+<<<<<<< HEAD
 /webroot/files/Circulars/*
 /webroot/files/AnnualReports/*
 /webroot/files/zip/*
+=======
+
+# CakePHP 2
+
+/app/tmp/*
+/app/Config/core.php
+/app/Config/database.php
+/vendors/*
+>>>>>>> 1825e90d8ec72ac33ebe5ca086121c3ed5330e9c
